@@ -15,8 +15,8 @@ img {
 }
 
 .container {
-    width: 1300px;
-    height: 38px;
+    max-width: 1300px;
+    min-height: 38px;
     margin: auto;
 }
 
@@ -107,10 +107,10 @@ img {
     width: 458px;
     height: 258px;
 }
-
+/* 
 .sam {
     padding-top: 437px;
-}
+} */
 
 .sam-head {
     width: 117px;
@@ -133,9 +133,9 @@ img {
     line-height: 24px;
 }
 
-.photos {
+/* .photos {
     padding-top: 550px;
-}
+} */
 
 .photos-arm {
     display: flex;
@@ -156,9 +156,9 @@ img {
     padding-left: 200px;
 }
 
-.fox-arm {
+/* .fox-arm {
     padding-top: 30px;
-}
+} */
 
 .fox-arm-finger {
     width: 135px;
@@ -386,9 +386,9 @@ img {
     color: #fff;
 }
 
-footer {
+/* footer {
     margin-top: 3150px;
-}
+} */
 
 .beck-so-head {
     width: 149px;
